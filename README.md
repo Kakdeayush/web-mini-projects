@@ -67,8 +67,12 @@ This repository is created to practice core web concepts, improve problem-solvin
 ---
 
 ## 📂 Folder Structure
-for all the projects
+
+web-mini-projects/
 │
-├── index.html
-├── style.css
-└── script.js
+├── project-name/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── README.md
