@@ -67,3 +67,8 @@ This repository is created to practice core web concepts, improve problem-solvin
 ---
 
 ## 📂 Folder Structure
+for all the projects
+│
+├── index.html
+├── style.css
+└── script.js
