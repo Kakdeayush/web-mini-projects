@@ -7,23 +7,22 @@ This repository is created to practice core web concepts, improve problem-solvin
 
 ## 🚀 Projects Included
 
-### 1️⃣ Random Quote Generator
-- Generate random motivational quotes
-- Clean and responsive UI
-- Built using pure JavaScript logic
+
+### 1️⃣ Calculator
+- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
+- Clear and responsive UI
+- Keyboard-friendly button interactions (optional)
 
 **Tech Used:** HTML, CSS, JavaScript
 
----
 
-### 2️⃣ Quiz App
-- Multiple-choice questions
-- Score calculation
-- Interactive UI with instant feedback
+### 2️⃣ Guess The Number Game
+- Guess a number between 1 and 100
+- Hints for high/low guesses
+- Attempt counter and restart option
 
 **Tech Used:** HTML, CSS, JavaScript
 
----
 
 ### 3️⃣ Notes App
 - Add and delete notes
@@ -32,14 +31,38 @@ This repository is created to practice core web concepts, improve problem-solvin
 
 **Tech Used:** HTML, CSS, JavaScript
 
----
 
-### 4️⃣ Guess The Number Game
-- Guess a number between 1 and 100
-- Hints for high/low guesses
-- Attempt counter and restart option
+### 4️⃣ Quiz App
+- Multiple-choice questions
+- Score calculation
+- Interactive UI with instant feedback
 
 **Tech Used:** HTML, CSS, JavaScript
+
+
+
+### 5️⃣ Random Quote Generator
+- Generate random motivational quotes
+- Clean and responsive UI
+- Built using pure JavaScript logic
+
+**Tech Used:** HTML, CSS, JavaScript
+
+### 6️⃣ Stopwatch / Timer
+- Start, pause, and reset functionality
+- Displays time in HH:MM:SS format
+- Clean and minimal UI
+
+**Tech Used:** HTML, CSS, JavaScript
+
+### 7️⃣ To-Do List App
+- Add, delete, and mark tasks as completed
+- Persistent task storage using `localStorage`
+- Simple and clean user interface
+
+**Tech Used:** HTML, CSS, JavaScript
+
+
 
 ---
 
