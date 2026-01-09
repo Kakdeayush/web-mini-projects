@@ -62,6 +62,12 @@ This repository is created to practice core web concepts, improve problem-solvin
 
 **Tech Used:** HTML, CSS, JavaScript
 
+### 8️⃣ Digital Clock
+- Real-time digital clock display
+- Shows current time and date
+- Updates every second
+
+**Tech Used:** HTML, CSS, JavaScript
 
 
 ---
