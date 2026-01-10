@@ -69,6 +69,12 @@ This repository is created to practice core web concepts, improve problem-solvin
 
 **Tech Used:** HTML, CSS, JavaScript
 
+### 9️⃣ Expense Tracker
+- Add income and expenses
+- Automatic balance calculation
+- Persistent data using localStorage
+
+**Tech Used:** HTML, CSS, JavaScript
 
 ---
 
