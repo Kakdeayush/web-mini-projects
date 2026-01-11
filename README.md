@@ -76,6 +76,14 @@ This repository is created to practice core web concepts, improve problem-solvin
 
 **Tech Used:** HTML, CSS, JavaScript
 
+### 🔟 Color Picker Tool
+- Select colors visually
+- Displays HEX and RGB values
+- Copy color code to clipboard
+
+**Tech Used:** HTML, CSS, JavaScript
+
+
 ---
 
 ## 📂 Folder Structure
