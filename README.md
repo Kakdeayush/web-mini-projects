@@ -84,6 +84,14 @@ This repository is created to practice core web concepts, improve problem-solvin
 **Tech Used:** HTML, CSS, JavaScript
 
 
+### 1️⃣1️⃣ Typing Speed Test
+- Measures typing speed in Words Per Minute (WPM)
+- Calculates typing accuracy
+- Real-time performance feedback
+
+**Tech Used:** HTML, CSS, JavaScript
+
+
 ---
 
 ## 📂 Folder Structure
