@@ -92,6 +92,14 @@ This repository is created to practice core web concepts, improve problem-solvin
 **Tech Used:** HTML, CSS, JavaScript
 
 
+### 1️⃣2️⃣ Memory Card Game
+- Flip cards to find matching pairs
+- Tracks number of moves
+- Restart game functionality
+
+**Tech Used:** HTML, CSS, JavaScript
+
+
 ---
 
 ## 📂 Folder Structure
