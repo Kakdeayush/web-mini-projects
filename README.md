@@ -99,6 +99,12 @@ This repository is created to practice core web concepts, improve problem-solvin
 
 **Tech Used:** HTML, CSS, JavaScript
 
+### 1️⃣3️⃣ Form Validator
+- Validates user inputs such as email, password, and phone number
+- Displays real-time error and success messages
+- Uses regular expressions for accurate validation
+ 
+**Tech Used:** HTML, CSS, JavaScript
 
 ---
 
