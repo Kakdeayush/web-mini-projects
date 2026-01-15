@@ -106,6 +106,16 @@ This repository is created to practice core web concepts, improve problem-solvin
  
 **Tech Used:** HTML, CSS, JavaScript
 
+
+### 1️⃣4️⃣ Music Player
+- Play, pause, and switch between songs
+- Displays current song title
+- Interactive progress bar for seeking
+
+**Concepts Covered:** Audio API, DOM manipulation, Event handling  
+**Tech Used:** HTML, CSS, JavaScript
+
+
 ---
 
 ## 📂 Folder Structure
