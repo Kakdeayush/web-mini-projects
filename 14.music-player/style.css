@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(135deg, #232526, #414345);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.player {
+  background: white;
+  padding: 25px;
+  width: 320px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+#title {
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-around;
+  margin: 15px 0;
+}
+
+button {
+  font-size: 20px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+}
+
+input[type="range"] {
+  width: 100%;
+}
