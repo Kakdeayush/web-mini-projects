@@ -115,6 +115,14 @@ This repository is created to practice core web concepts, improve problem-solvin
 **Concepts Covered:** Audio API, DOM manipulation, Event handling  
 **Tech Used:** HTML, CSS, JavaScript
 
+### 1️⃣5️⃣ Weather App
+- Fetches real-time weather data using OpenWeather API
+- Displays temperature, weather condition, and humidity
+- Search weather details by city name
+
+**Concepts Covered:** API integration, Async/Await, Fetch API  
+**Tech Used:** HTML, CSS, JavaScript
+
 
 ---
 
