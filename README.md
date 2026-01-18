@@ -124,6 +124,15 @@ This repository is created to practice core web concepts, improve problem-solvin
 **Tech Used:** HTML, CSS, JavaScript
 
 
+### 1️⃣6️⃣ Currency Converter
+- Converts amount between different currencies
+- Fetches live exchange rates from an external API
+- Simple and responsive UI
+
+**Concepts Covered:** API integration, Fetch API, Async JavaScript  
+**Tech Used:** HTML, CSS, JavaScript
+
+
 ---
 
 ## 📂 Folder Structure
