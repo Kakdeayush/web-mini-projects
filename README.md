@@ -132,6 +132,14 @@ This repository is created to practice core web concepts, improve problem-solvin
 **Concepts Covered:** API integration, Fetch API, Async JavaScript  
 **Tech Used:** HTML, CSS, JavaScript
 
+### 1️⃣7️⃣ QR Code Generator
+- Generates QR codes for text or URLs
+- Instant QR preview using an external API
+- Simple and responsive user interface
+
+**Concepts Covered:** API integration, DOM manipulation  
+**Tech Used:** HTML, CSS, JavaScript
+
 
 ---
 
