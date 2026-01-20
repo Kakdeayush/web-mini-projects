@@ -140,6 +140,14 @@ This repository is created to practice core web concepts, improve problem-solvin
 **Concepts Covered:** API integration, DOM manipulation  
 **Tech Used:** HTML, CSS, JavaScript
 
+### 1️⃣8️⃣ Unit Converter
+- Converts values between different unit categories
+- Supports Length, Weight, and Temperature
+- Dynamic unit selection based on category
+
+**Concepts Covered:** Math logic, Dynamic UI, DOM manipulation  
+**Tech Used:** HTML, CSS, JavaScript
+
 
 ---
 
