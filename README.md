@@ -148,6 +148,14 @@ This repository is created to practice core web concepts, improve problem-solvin
 **Concepts Covered:** Math logic, Dynamic UI, DOM manipulation  
 **Tech Used:** HTML, CSS, JavaScript
 
+### 1️⃣9️⃣ URL Bookmark Manager
+- Save, view, and delete website bookmarks
+- Data persistence using localStorage
+- Simple and clean user interface
+
+**Concepts Covered:** CRUD operations, localStorage, DOM manipulation  
+**Tech Used:** HTML, CSS, JavaScript
+
 
 ---
 
