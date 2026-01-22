@@ -156,6 +156,14 @@ This repository is created to practice core web concepts, improve problem-solvin
 **Concepts Covered:** CRUD operations, localStorage, DOM manipulation  
 **Tech Used:** HTML, CSS, JavaScript
 
+### 2️⃣0️⃣ Clipboard Manager
+- Copy text to clipboard and maintain copy history
+- Click history items to copy again
+- Data persistence using localStorage
+
+**Concepts Covered:** Clipboard API, localStorage, Event handling  
+**Tech Used:** HTML, CSS, JavaScript
+
 
 ---
 
