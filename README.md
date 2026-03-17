@@ -168,7 +168,7 @@ This repository is created to practice core web concepts, improve problem-solvin
 ---
 
 ## 📂 Folder Structure
-
+```
 web-mini-projects/
 │
 ├── project-name/
@@ -177,3 +177,4 @@ web-mini-projects/
 │   └── script.js
 │
 └── README.md
+```
